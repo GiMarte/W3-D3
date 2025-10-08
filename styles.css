@@ -1,0 +1,39 @@
+body {
+  background-color: #212121;
+  color: #ffffff;
+  padding: 20px;
+}
+nav ul {
+  padding: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 2em;
+}
+
+form {
+  text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    padding: 20px;
+}
+
+form div label,input{
+    padding: 5px;
+    font-size: 1.2rem;
+}
+
+form div label{
+    font-size: 1.6rem;
+}
+
+#btn {
+    font-size: 2rem;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
